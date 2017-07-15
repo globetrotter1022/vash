@@ -1,6 +1,18 @@
+// simple interest
 # your code goes here
 P= 9870
 R= 200
 T= 2
 a= 100
 print(P*R*T/a)
+
+//square root
+# your code goes here
+P= 9870
+R= 0.5
+print(P**R)
+
+// lower case to upper case
+# your code goes here
+a= " welcome to python"
+print a.upper()
