@@ -1,0 +1,6 @@
+# your code goes here
+P= 9870
+R= 200
+T= 2
+a= 100
+print(P*R*T/a)
